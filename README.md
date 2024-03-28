@@ -2,6 +2,11 @@
 
 This project provides a RESTful API built with the Laravel framework.
 
+## Prerequisites
+
+* PHP >= 8.2 (https://www.php.net/downloads.php) 
+* Composer (https://getcomposer.org/download/)
+
 ## Setup Instructions
 
 1. **Clone the repository:**
